@@ -1,0 +1,17 @@
+# Node / Frontend
+frontend/node_modules/
+node_modules/
+
+# .NET
+bin/
+obj/
+
+# Rider / IDE
+.idea/
+.vs/
+
+# OS
+.DS_Store
+
+# SQLite / local db
+*.db
